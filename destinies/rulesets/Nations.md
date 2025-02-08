@@ -3,6 +3,8 @@
 1. Nicht jedes Volk hat auch jeden Charakter Typen. Manche Völker haben keine Theologie oder nicht die Fähigkeit mit Waffen zu hantieren.
 
 ## Elben
+### Beschreibung
+Elben sind eitle Wesen. Sie bilden sich gerne einen auf Ihr Fertigkeiten ein.
 
 ### Standard Ausrüstung
 - Krieger: Schwert
@@ -10,37 +12,62 @@
 - Druide: Sichel, Beutel mit div. Kräutern
 - Barde: Dolch, Harfe
 - Dieb: Kurzschwert, Dietrich
+- Magier: Zauberstab
+
+### Vor- und Nachteile
+- Vorteil: Elben sind exzellente Kämpfer und erhalten ein Punkt für Kampfproben zusätzlich
+- Nachteil: Elben reagieren nicht immer gut auf jeden Heilungsversuch. Ob eine Heilung funktioniert hat wird mittels des 20er Würfels herausgefunden.
 
 ## Hobbits
+### Beschreibung
+Wer nimmt denn bitte schon die Halblinge richtig war? Hobbits sind nicht wirklich bekannt und werden gerne für Zwerge gehalten.
 ### Standard Ausrüstung
 - Krieger: Kurzschwert
-- Kleriker: Gebetskette, Dolch, Gebetsbuch
 - Barde: Dolch, Laute
 - Dieb: Kurzschwert, Dietrich
+- Druide: Sichel, Beutel mit div. Kräutern
+- Magier: Zauberstab
 
+### Vor- und Nachteile
+Vorteil: Hobbits sind gute Sucher. Wenn ein Druide Kräuter oder der gleichen braucht. Ein Hobbit weiß wo und findet diese zuverlässig
+Nachteil: Hobbits sind sehr hungrige Wesen. Sie können nur ein Zug pro Runde absolvieren.
 
 ## Menschen
+### Beschreibung
+
 ### Standard Ausrüstung
 - Krieger: Schwert und Schild
 - Bogenschütze: Bogen und ein Köcher mit Pfeilen
 - Druide: Sichel, Beutel mit div. Kräutern
 - Magier: Zauberstab
-- Kleriker: Gebetskette, Dolch, Gebetsbuch
 - Barde: Dolch, Gitarre
 - Dieb: Kurzschwert, Dietrich
 
+### Vor- und Nachteile
+Vorteil: 
+Nachteil: Menschen sind gerne eifersüchtig auf Zwerge. Wenn ein Zwerg was anfängt so eifert der Mensch es ihm nach.
 
 ## Orks
+### Beschreibung
 ### Standard Ausrüstung
 - Krieger: Axt und Schwert
 - Bogenschütze: Bogen und ein Köcher mit Pfeilen
 - Druide: Sichel, Beutel mit div. Kräutern
+- Magier: Zauberstab
 
+### Vor- und Nachteile
+Vorteil:
+Nachteil: Orks sind nicht immer die schlausten. Daher verlegen sie oft auch ihre Gegenstände oder sogar ihr ganzes Inventar. Sollte bei einer Probe die niedrigste oder die höchste Zahl des Würfels gewürfelt werden, verliert der Ork seine Sachen.
 
 ## Zwerge
+### Beschreibung
 ### Standard Ausrüstung
 - Krieger: Hammer und Schwert
 - Bogenschütze: Bogen und ein Köcher mit Pfeilen
 - Druide: Sichel, Beutel mit div. Kräutern
 - Magier: Zauberstab
 - Barde: Dolch, Drehleier
+
+### Vor- und Nachteile
+Vorteil: 
+Nachteil: Zwerge sind grundlegend gesellige Wesen. Wenn einer trinkt, trinken die anderen mit.

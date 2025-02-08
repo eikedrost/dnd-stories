@@ -28,6 +28,9 @@ Die Kampfprobe findet nur Anwendung in Kämpfen.
 ### Kraftprobe
 Die Kraftprobe ist für alles was mit Kraft zu tun hat notwendig. z.B.: Stemme ein Stein, Breche ein Tor auf o.ä.
 
+## Normale Probe
+Die Normale Probe kommt nur zum Einsatz wenn der Spieler seine Spezialfähigkeit anwenden möchte. Für die Anwendung seine Spezialfähigkeit nimmt der Spieler zwei Würfel und würfelt. Das Ergebnis muss drei oder höher sein.
+
 ### Schleichprobe
 Ihr möchtet nicht mit der Tür ins Haus fallen? Manchmal eröffnet sich ein alternativer Weg der lediglich nur mit Schleichen möglich ist. Wählt weise.
 
