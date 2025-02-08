@@ -92,9 +92,10 @@ Wer möchte denn nicht ein Gandalf mit sich mit führen? Magier können sehr nü
    1. Ein Kampfmagier erhält neben seinem Zauberstab und seinen Zauberkampf-Fähigkeiten ebenfalls ein Schwert und ist ein Meister seines Gebiets. Ein Kampfmagier kann alle Arten von Gegnern bekämpfen.
    2. Die Fertigkeit "Der Kampfmagier" kann nur von Zwergen, Orks oder Menschen erlangt werden
    3. Der Kampfmagier erhält zwei zusätzliche Punkte für Kampfproben, ein zusätzlichen Punkt für Magieproben und reduziert das erforderte Würfelergebnis um 1 Auge bei Kampfproben.
-2. Der Allwissende und allsehende
-3. 
-
+2. Der Allwissende und Allsehende Magier
+   1. Der Allwissende und Allsehende Magier hat als einziger die Fähigkeit in die Zukunft zu schauen, zu wissen was kommt und dem entsprechend zu handeln. Problematisch ist leider nur, durch sein Wissen verliert er schnell den Fokus, die Kraft und die Kampfeslust.
+   2. Die Fertigkeit "Der Allwissende und Allsehende Magier" kann nur von Elben und Hobbits erlangt werden.
+   3. Der Allwissende und Allsehende Magier, erlangt vier zusätzliche Punkte für Magieproben. Zusätzlich erhält er die Möglichkeit in die Zukunft zu sehen, muss dazu jedoch eine Magieprobe mit einem Würfelergebnis von zwei mal einer fünf oder höher. Nachteil: Der Magier verliert seine gesammten Punkte für Geschick, Kampf und Kraft.
 
 ### Kleriker
 #### Beschreibung
