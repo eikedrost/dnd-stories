@@ -3,6 +3,7 @@
 ## Table of contents
 - [Characters](./Characters.md)
 - [Nations](./Nations.md)
+- [Dice probes](./Diceprobes.md)
 - [Creatures](./Creatures.md)
 - [General rules](#general-rules)
 
