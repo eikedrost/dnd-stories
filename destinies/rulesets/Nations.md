@@ -47,18 +47,6 @@ Nachteil: Hobbits sind sehr hungrige Wesen. Sie können nur ein Zug pro Runde ab
 Vorteil: 
 Nachteil: Menschen sind gerne eifersüchtig auf Zwerge. Wenn ein Zwerg was anfängt so eifert der Mensch es ihm nach.
 
-## Orks
-### Beschreibung
-### Standard Ausrüstung
-- Krieger: Axt und Schwert
-- Bogenschütze: Bogen und ein Köcher mit Pfeilen
-- Druide: Sichel, Beutel mit div. Kräutern
-- Magier: Zauberstab
-
-### Vor- und Nachteile
-Vorteil:
-Nachteil: Orks sind nicht immer die schlausten. Daher verlegen sie oft auch ihre Gegenstände oder sogar ihr ganzes Inventar. Sollte bei einer Probe die niedrigste oder die höchste Zahl des Würfels gewürfelt werden, verliert der Ork seine Sachen.
-
 ## Zwerge
 ### Beschreibung
 ### Standard Ausrüstung
