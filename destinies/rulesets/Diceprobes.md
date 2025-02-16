@@ -19,9 +19,6 @@ Die Diplomatie ist ein notwendige und wichtige Probe. Diese bestimmt ob ihr jema
 ### Geschicklickkeitsprobe
 Die Geschicklickkeitsproben sind notwendig für alles was mit Geschick zu tun hat. z.B.: Schlösser knacken
 
-### Heilungsprobe
-Heilungproben können nur direkt Magiern ausgeführt werden. Druiden können jedoch Heilungstränke herstellen welche mit entsprechenden Heilungsproben ausgestattet sind. Mehr dazu unter dem Regelwerk Tränke.
-
 ### Kampfprobe
 Die Kampfprobe findet nur Anwendung in Kämpfen.
 
