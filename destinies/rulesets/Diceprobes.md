@@ -10,7 +10,6 @@
       2. Wenn Spieler 1 eine Geschicklichkeitsstatistik von 3 hat, darf Spieler 1 mit 3 Würfeln würfeln.
       3. Würfelt spieler nun folgendes Ergebnis: 1. Würfel: 3, 2. Würfel: 2, 3. Würfel 5, so ist das Ergebnis erfolgreich. 
 
-
 ## Types of dice probes
 
 ### Diplomatieprobe
@@ -25,12 +24,8 @@ Die Kampfprobe findet nur Anwendung in Kämpfen.
 ### Kraftprobe
 Die Kraftprobe ist für alles was mit Kraft zu tun hat notwendig. z.B.: Stemme ein Stein, Breche ein Tor auf o.ä.
 
-### Normale Probe
-Die Normale Probe kommt nur zum Einsatz wenn der Spieler seine Spezialfähigkeit anwenden möchte. Für die Anwendung seine Spezialfähigkeit nimmt der Spieler zwei Würfel und würfelt. Das Ergebnis muss drei oder höher sein.
-
 ### Schleichprobe
 Ihr möchtet nicht mit der Tür ins Haus fallen? Manchmal eröffnet sich ein alternativer Weg der lediglich nur mit Schleichen möglich ist. Wählt weise.
 
 ### Magieproben
-Ob euer Zauber oder euer Trank gelingt oder nicht das erfahrt ihr hier. Magieproben sind nur was für Magier und Druiden. Alle anderen die eine Magieprobe versuchen und keine Magier oder Druiden sind, können höllische Probleme erfahren.
-Mehr dazu im Regelwerk Magie.
+Ob euer Zauber gelingt oder nicht das erfahrt ihr hier. Magieproben sind nur was für Magier..
